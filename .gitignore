@@ -1,0 +1,11 @@
+.env
+autorepo.json
+public/config.js
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+node_modules/
+.vercel/
